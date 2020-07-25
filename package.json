@@ -1,0 +1,11 @@
+{
+  "name": "bettergo",
+  "version": "1.0.0",
+  "description": "better than yesterday",
+  "main": "index.js",
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
